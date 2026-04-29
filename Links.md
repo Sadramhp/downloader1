@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 21:26 IR
+- 📥 [tubly_downloader_v1.5.2.xpi](https://github.com/Sadramhp/downloader1/raw/main/dl/tubly_downloader_v1.5.2.xpi) `2.4MB`
+
+---
+
+
 ### 📅 2026-04-29 19:07 IR
 - 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/Sadramhp/downloader1/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
 
