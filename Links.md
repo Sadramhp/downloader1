@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 16:54 IR
+- 🗜️ [File_white_dns.zip](https://github.com/Sadramhp/downloader1/raw/main/dl/File_white_dns.zip) `7.0MB`
+
+---
+
+
 ### 📅 2026-05-04 13:52 IR
 - 📱 [FVPN_1.1_universal.apk](https://github.com/Sadramhp/downloader1/raw/main/dl/FVPN_1.1_universal.apk) `6.7MB`
 
